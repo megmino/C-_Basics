@@ -20,11 +20,12 @@ namespace FileNavConsole
             Console.Write(" Enter a text file name then select Enter: ");
             fileName = Console.ReadLine().Trim();
 
-            //Test for no entry and keep prompting until user enters a value
-            while (string.IsNullOrEmpty(fileName)){
-                Console.Write(" You did not enter a value. Please enter a text file name then select Enter: ");
-                fileName = Console.ReadLine().Trim();
-            }
+            //Test for empty or invalid entry and keep prompting until user enters a valid value
+            while (string.IsNullOrEmpty(fileName) || fileName.IndexOfAny(Path.GetInvalidFileNameChars()) >= 0)
+                {
+                    Console.Write(" You did not enter a valid file name. Please enter a valid file name then select Enter: ");
+                    fileName = Console.ReadLine().Trim();
+                }
 
             //Test for the correct file extension. This also catches values with no extension
             if (Path.GetExtension(fileName) != txt){
