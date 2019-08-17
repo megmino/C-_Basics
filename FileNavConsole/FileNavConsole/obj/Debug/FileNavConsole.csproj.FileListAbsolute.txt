@@ -1,0 +1,7 @@
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\bin\Debug\FileNavConsole.exe.config
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\bin\Debug\FileNavConsole.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\bin\Debug\FileNavConsole.pdb
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\obj\Debug\FileNavConsole.csprojAssemblyReference.cache
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\obj\Debug\FileNavConsole.csproj.CoreCompileInputs.cache
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\obj\Debug\FileNavConsole.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavConsole\FileNavConsole\obj\Debug\FileNavConsole.pdb
