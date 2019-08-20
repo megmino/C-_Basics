@@ -1,0 +1,7 @@
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\bin\Debug\FileNavTest3.exe.config
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\bin\Debug\FileNavTest3.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\bin\Debug\FileNavTest3.pdb
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\obj\Debug\FileNavTest3.csprojAssemblyReference.cache
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\obj\Debug\FileNavTest3.csproj.CoreCompileInputs.cache
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\obj\Debug\FileNavTest3.exe
+C:\Users\minome01\Documents\Visual Studio 2017\Projects\FileNavTest3\FileNavTest3\obj\Debug\FileNavTest3.pdb
