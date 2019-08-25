@@ -1,2 +1,2 @@
-# File-Navigation
-Practice File Navigation Apps
+# CS Basics
+SOme console apps i've written to review the basics
