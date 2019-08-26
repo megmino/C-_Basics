@@ -48,8 +48,8 @@ namespace ArrayExcercise1
             {
                 if (Int32.TryParse(input, out val))
                 {
-                    //Array cannot be bigger than 100
-                    test = (arrMax && val > 10) ? true : false;               
+                    //Array cannot be bigger than 10 or less than/equal to 0
+                    test = (arrMax && (val > 10 || val <= 0)) ? true : false;               
                 }
                 if (test)
                 {
